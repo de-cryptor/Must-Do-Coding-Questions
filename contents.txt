@@ -1,0 +1,17 @@
+Algorithms
+	1. Searching
+		1.1 Linear Search
+		1.2 Binary Search iterative
+		1.3 Binary Search Recursive
+
+	2. Sorting
+		2.1 Bubble Sort
+		2.2 Selection Sort
+		2.3 Insertion Sort
+		2.4 Counting Sort
+		2.5 Merge Sort
+		2.6 Quick Sort
+
+	3. Dynamic Programming
+		3.1 Fibbonaci Series
+

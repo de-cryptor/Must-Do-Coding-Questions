@@ -17,4 +17,5 @@ Algorithms
 
 	4. Mathematical Algorithms
 		4.1 GCD & LCM
+		4.2 LCM of Array
 

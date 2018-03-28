@@ -16,6 +16,7 @@ Algorithms
 		3.1 Fibbonaci Series
 		3.2 Binomial Coefficient
 		3.3 Longest Common Subsequence
+		3.4 Largest Sum Contiguous Subarray [Kadane’s Algorithm]
 		
 
 	4. Mathematical Algorithms

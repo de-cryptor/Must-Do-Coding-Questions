@@ -1,8 +1,10 @@
-/* Jatin Goel
-	IIIT Allahabad*/
-/* There is no substitute of hardwork. */
-/* Hardwork definitely pays off. */
-/* There is no shortcut to success. */
+/* 
+	@Author - Jatin Goel
+	@Institute - IIIT Allahabad
+	Hardwork definitely pays off. 
+	There is no substitute of hardwork.
+	There is no shortcut to success. 
+*/
 #include <bits/stdc++.h>
 using namespace std;
 #define  LL long long

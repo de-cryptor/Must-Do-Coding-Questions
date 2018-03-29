@@ -1,26 +1,31 @@
-Algorithms
-	1. Searching
-		1.1 Linear Search
-		1.2 Binary Search iterative
-		1.3 Binary Search Recursive
 
-	2. Sorting
-		2.1 Bubble Sort
-		2.2 Selection Sort
-		2.3 Insertion Sort
-		2.4 Counting Sort
-		2.5 Merge Sort
-		2.6 Quick Sort
+====================================Must-Do-Coding-Questions===============================
 
-	3. Dynamic Programming
-		3.1 Fibbonaci Series
-		3.2 Binomial Coefficient
-		3.3 Longest Common Subsequence
-		3.4 Largest Sum Contiguous Subarray [Kadane’s Algorithm]
-		3.5 Maximum size square sub-matrix with all 1's
+Array
+	1.Largest Sum Contiguous Subarray [Kadane’s Algorithm]
 
+Divide and Conquer
+	1. Binary Search iterative
+	2. Binary Search Recursive
+	3. Merge Sort
+	4. Quick Sort
 
-	4. Mathematical Algorithms
-		4.1 GCD & LCM
-		4.2 LCM of Array
+Dynamic Programming
+	1. Fibbonaci Series
+	2. Binomial Coefficient
+	3. Longest Common Subsequence
+	4. Maximum size square sub-matrix with all 1's
+
+Searching
+	1. Linear Search
+		
+Sorting
+	1. Bubble Sort
+	2. Selection Sort
+	3. Insertion Sort
+	4. Counting Sort
+
+Mathematical Algorithms
+	1. GCD & LCM
+	2. LCM of Array
 

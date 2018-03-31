@@ -6,6 +6,7 @@ Array
 	2.Missing Number
 	3.SubArray Given Sum
 	4.Sort an Array of 0,1,2
+	5.Equilibrium Point
 
 Divide and Conquer
 	1. Binary Search iterative

@@ -3,6 +3,7 @@
 
 Array
 	1.Largest Sum Contiguous Subarray [Kadane’s Algorithm]
+	2.Missing Number
 
 Divide and Conquer
 	1. Binary Search iterative

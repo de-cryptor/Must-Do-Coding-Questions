@@ -8,6 +8,7 @@ Array
 	4.Sort an Array of 0,1,2
 	5.Equilibrium Point
 	6.Maximum sum increasing Subsequence
+	7.Leaders in the Array
 
 Divide and Conquer
 	1. Binary Search iterative

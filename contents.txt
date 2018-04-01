@@ -9,6 +9,7 @@ Array
 	5.Equilibrium Point
 	6.Maximum sum increasing Subsequence
 	7.Leaders in the Array
+	8.Minimum Platforms
 
 Divide and Conquer
 	1. Binary Search iterative

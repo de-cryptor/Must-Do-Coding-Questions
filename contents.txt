@@ -12,6 +12,8 @@ Array
 	8.Minimum Platforms
 	9.Maximum of all Subarrays of size k
 	10.Reverse Array in Groups of size k
+	11.Kth Smallest Element
+	12.
 
 Divide and Conquer
 	1. Binary Search iterative

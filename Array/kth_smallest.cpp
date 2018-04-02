@@ -26,23 +26,21 @@ int main()
 		int n;
 		cin >> n;
 		int a[n+5];
+		priority_queue<int,vector<int>, greater<int>> pq;
 		for(int i=0;i<n;i++)
 		{
+
 			cin >> a[i];
+			pq.push(a[i]);
 		}
 		int k;
 		cin >> k;
-		for(int i=0;i<n;i+=k)
+		k--;
+		while(k--)
 		{
-			int l =i;
-			int r = min(i+k-1,n-1);
-			while(l < r)
-				swap(a[l++],a[r--]);
+			pq.pop();
 		}
-		for(int i=0;i<n;i++)
-			cout << a[i] << " ";
-
-		cout << endl;
- 	
+		cout << pq.top() << endl;
+		
 	}
 }

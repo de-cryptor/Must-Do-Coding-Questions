@@ -10,6 +10,7 @@ Array
 	6.Maximum sum increasing Subsequence
 	7.Leaders in the Array
 	8.Minimum Platforms
+	9.Maximum of all Subarrays of size k
 
 Divide and Conquer
 	1. Binary Search iterative

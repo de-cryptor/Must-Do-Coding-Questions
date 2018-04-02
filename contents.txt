@@ -14,6 +14,7 @@ Array
 	10.Reverse Array in Groups of size k
 	11.Kth Smallest Element
 	12.Trapping Rain Water
+	13.Check for Pythagorean Triplet in Array
 
 Divide and Conquer
 	1. Binary Search iterative

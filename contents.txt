@@ -16,6 +16,7 @@ Array
 	12.Trapping Rain Water
 	13.Check for Pythagorean Triplet in Array
 	14.Chocolate Distribution Problem
+	15.Stock Buy and Sell
 
 Divide and Conquer
 	1. Binary Search iterative

@@ -15,6 +15,7 @@ Array
 	11.Kth Smallest Element
 	12.Trapping Rain Water
 	13.Check for Pythagorean Triplet in Array
+	14.Chocolate Distribution Problem
 
 Divide and Conquer
 	1. Binary Search iterative

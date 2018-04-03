@@ -23,6 +23,8 @@ Array
 	19.Kth Largest Element in stream
 	20.Relative Sorting
 	21.Spirally traversing a Matrix
+	22.Sorting Elements of an Array by Frequency
+	
 
 String
 	1.Parenthesis Checker

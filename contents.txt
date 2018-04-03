@@ -23,6 +23,9 @@ Array
 	19.Kth Largest Element in stream
 	20.Relative Sorting
 
+String
+	1.Parenthesis Checker
+
 Divide and Conquer
 	1. Binary Search iterative
 	2. Binary Search Recursive

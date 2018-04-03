@@ -17,6 +17,7 @@ Array
 	13.Check for Pythagorean Triplet in Array
 	14.Chocolate Distribution Problem
 	15.Stock Buy and Sell
+	16.Element with left side smaller and right side greater
 
 Divide and Conquer
 	1. Binary Search iterative

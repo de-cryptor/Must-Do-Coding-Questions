@@ -19,6 +19,7 @@ Array
 	15.Stock Buy and Sell
 	16.Element with left side smaller and right side greater
 	17.Convert Array into Zig Zag Fashion
+	18.Find the element that appears once in sorted array
 
 Divide and Conquer
 	1. Binary Search iterative

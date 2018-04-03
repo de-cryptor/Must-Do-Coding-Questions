@@ -18,6 +18,7 @@ Array
 	14.Chocolate Distribution Problem
 	15.Stock Buy and Sell
 	16.Element with left side smaller and right side greater
+	17.Convert Array into Zig Zag Fashion
 
 Divide and Conquer
 	1. Binary Search iterative

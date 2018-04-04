@@ -33,6 +33,8 @@ String
 	4.Longest Palindromic Substring
 	5.Recursively remove All duplicates
 	6.Check if String is rotated by two Places
+	7.Convert Roman to Integer
+	8.Anagrams
 
 Divide and Conquer
 	1. Binary Search iterative

@@ -32,6 +32,7 @@ String
 	3.Print All Permutations of given string
 	4.Longest Palindromic Substring
 	5.Recursively remove All duplicates
+	6.Check if String is rotated by two Places
 
 Divide and Conquer
 	1. Binary Search iterative

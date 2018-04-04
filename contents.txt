@@ -38,6 +38,7 @@ String
 	9.Longest Common Substring
 	10.Remove Duplicates
 	11.Implement atoi
+	12.Implement strstr
 
 Divide and Conquer
 	1. Binary Search iterative

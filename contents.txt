@@ -36,6 +36,7 @@ String
 	7.Convert Roman to Integer
 	8.Anagrams
 	9.Longest Common Substring
+	10.Remove Duplicates
 
 Divide and Conquer
 	1. Binary Search iterative

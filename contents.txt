@@ -29,6 +29,7 @@ Array
 String
 	1.Parenthesis Checker
 	2.Reverse Words in String
+	3.Print All Permutations of given string
 
 Divide and Conquer
 	1. Binary Search iterative

@@ -30,6 +30,8 @@ String
 	1.Parenthesis Checker
 	2.Reverse Words in String
 	3.Print All Permutations of given string
+	4.Longest Palindromic Substring
+	5.
 
 Divide and Conquer
 	1. Binary Search iterative

@@ -42,6 +42,9 @@ String
 	13.Minimum Insertions to form Palindrome
 	14.Longest Common Prefix in an Array of strings [Using Binary Search]
 
+Hashing
+	1.Largest subarray with 0 sum
+
 Divide and Conquer
 	1. Binary Search iterative
 	2. Binary Search Recursive

@@ -46,6 +46,7 @@ Hashing
 	1.Largest subarray with 0 sum
 	2.Swapping Pairs make equal sum of two Arrays
 	3.Count distinct elements in every window
+	4.Array Pair Sum Divisibility Problem
 
 Divide and Conquer
 	1. Binary Search iterative

@@ -39,6 +39,7 @@ String
 	10.Remove Duplicates
 	11.Implement atoi
 	12.Implement strstr
+	13.Minimum Insertions to form Palindrome
 
 Divide and Conquer
 	1. Binary Search iterative

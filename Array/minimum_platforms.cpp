@@ -33,6 +33,8 @@ int main()
 		for(int i=0;i<n;i++)
 		{
 			cin >> d[i];
+			if(d[i] < a[i])
+			    d[i] += 2400;
 		}
 		sort(a,a+n);
 		sort(d,d+n);
@@ -44,13 +46,13 @@ int main()
 			{
 				platfroms++;
 				i++;
+				ans = max(ans,platfroms);
 			}
 			else
-			{	
+			{
 				platfroms--;
 				j++;
 			}
-			ans = max(ans,platfroms);
 		}
 		
 		cout << ans << endl;

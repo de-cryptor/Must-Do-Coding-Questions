@@ -40,7 +40,7 @@ String
 	11.Implement atoi
 	12.Implement strstr
 	13.Minimum Insertions to form Palindrome
-	14.Roman to Decimal
+	14.Longest Common Prefix in an Array of strings [Using Binary Search]
 
 Divide and Conquer
 	1. Binary Search iterative

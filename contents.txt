@@ -48,6 +48,7 @@ Hashing
 	3.Count distinct elements in every window
 	4.Array Pair Sum Divisibility Problem
 	5.Minimum indexed Character
+	6.Find first repeated character
 
 Divide and Conquer
 	1. Binary Search iterative

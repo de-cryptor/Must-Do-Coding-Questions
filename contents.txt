@@ -53,6 +53,7 @@ Hashing
 	8.Uncommon Characters
 	9.Check if frequencies can be equal
 	10.First element to occur k times
+	11.Find all pairs with a given sum
 
 Divide and Conquer
 	1. Binary Search iterative

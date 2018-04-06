@@ -50,7 +50,7 @@ Hashing
 	5.Minimum indexed Character
 	6.Find first repeated character
 	7.Check if two Arrays are equal or not?
-	8.
+	8.Uncommon Characters
 
 Divide and Conquer
 	1. Binary Search iterative

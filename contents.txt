@@ -52,6 +52,7 @@ Hashing
 	7.Check if two Arrays are equal or not?
 	8.Uncommon Characters
 	9.Check if frequencies can be equal
+	10.First element to occur k times
 
 Divide and Conquer
 	1. Binary Search iterative

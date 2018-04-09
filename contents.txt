@@ -55,6 +55,9 @@ Hashing
 	10.First element to occur k times
 	11.Find all pairs with a given sum
 
+Bit Magic
+	1.First Set Bit
+
 Divide and Conquer
 	1. Binary Search iterative
 	2. Binary Search Recursive

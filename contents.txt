@@ -62,6 +62,7 @@ Bit Magic
 	4.Toggle Bits in given Range
 	5.Set kth Bit
 	6.Check Power of 2
+	7.Bit Difference
 
 Divide and Conquer
 	1. Binary Search iterative

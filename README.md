@@ -2,9 +2,9 @@
 All Basic Algorithms and Data Structures at one Place
 
 
-====================================Must-Do-Coding-Questions===============================
+## =========Must-Do-Coding-Questions===========
 
-Array
+### Array
 	1.Largest Sum Contiguous Subarray [Kadane’s Algorithm]
 	2.Missing Number
 	3.SubArray Given Sum
@@ -29,7 +29,7 @@ Array
 	22.Sorting Elements of an Array by Frequency
 	23.Largest Number formed from an Array
 
-String
+### String
 	1.Parenthesis Checker
 	2.Reverse Words in String
 	3.Print All Permutations of given string
@@ -45,7 +45,7 @@ String
 	13.Minimum Insertions to form Palindrome
 	14.Longest Common Prefix in an Array of strings [Using Binary Search]
 
-Hashing
+### Hashing
 	1.Largest subarray with 0 sum
 	2.Swapping Pairs make equal sum of two Arrays
 	3.Count distinct elements in every window
@@ -58,7 +58,7 @@ Hashing
 	10.First element to occur k times
 	11.Find all pairs with a given sum
 
-Bit Magic
+### Bit Magic
 	1.First Set Bit
 	2.Righmost Different Bit in two Numbers
 	3.Check kth bit Set or Not
@@ -67,28 +67,28 @@ Bit Magic
 	6.Check Power of 2
 	7.Bit Difference
 
-Divide and Conquer
+### Divide and Conquer
 	1. Binary Search iterative
 	2. Binary Search Recursive
 	3. Merge Sort
 	4. Quick Sort
 
-Dynamic Programming
+### Dynamic Programming
 	1. Fibbonaci Series
 	2. Binomial Coefficient
 	3. Longest Common Subsequence
 	4. Maximum size square sub-matrix with all 1's
 
-Searching
+### Searching
 	1. Linear Search
 		
-Sorting
+### Sorting
 	1. Bubble Sort
 	2. Selection Sort
 	3. Insertion Sort
 	4. Counting Sort
 
-Mathematical Algorithms
+### Mathematical Algorithms
 	1. GCD & LCM
 	2. LCM of Array
 

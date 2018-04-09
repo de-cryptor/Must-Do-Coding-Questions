@@ -57,6 +57,8 @@ Hashing
 
 Bit Magic
 	1.First Set Bit
+	2.Righmost Different Bit in two Numbers
+	3.
 
 Divide and Conquer
 	1. Binary Search iterative

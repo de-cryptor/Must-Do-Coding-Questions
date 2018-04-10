@@ -1,7 +1,3 @@
-# Algo-DS-Kit
-All Basic Algorithms and Data Structures at one Place
-
-
 ## =========Must-Do-Coding-Questions===========
 
 ### Array
@@ -57,6 +53,7 @@ All Basic Algorithms and Data Structures at one Place
 	9.Check if frequencies can be equal
 	10.First element to occur k times
 	11.Find all pairs with a given sum
+	12.Array Subset of another array
 
 ### Bit Magic
 	1.First Set Bit

@@ -67,6 +67,7 @@
 	8.Number is sparse or not
 	9.Swap all odd and even bits
 	10.Count Total Set Bits
+	11.Longest Consecutive 1's
 
 ### Divide and Conquer
 	1. Binary Search iterative

@@ -64,6 +64,7 @@
 	5.Set kth Bit
 	6.Check Power of 2
 	7.Bit Difference
+	8.Number is sparse or not
 
 ### Divide and Conquer
 	1. Binary Search iterative

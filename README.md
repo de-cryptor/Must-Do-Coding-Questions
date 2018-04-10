@@ -54,6 +54,7 @@
 	10.First element to occur k times
 	11.Find all pairs with a given sum
 	12.Array Subset of another array
+	13.Smallest window in a string containing all the characters of another string
 
 ### Bit Magic
 	1.First Set Bit

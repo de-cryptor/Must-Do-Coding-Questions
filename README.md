@@ -65,6 +65,7 @@
 	6.Check Power of 2
 	7.Bit Difference
 	8.Number is sparse or not
+	9.Swap all odd and even bits
 
 ### Divide and Conquer
 	1. Binary Search iterative

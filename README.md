@@ -82,6 +82,7 @@
 	4. Maximum size square sub-matrix with all 1's
 	5. 0-1 Knapsack
 	6. Minimum Number of Jumps
+	7. Edit Distance
 
 ### Searching
 	1. Linear Search

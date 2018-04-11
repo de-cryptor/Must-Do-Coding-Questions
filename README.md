@@ -83,6 +83,7 @@
 	5. 0-1 Knapsack
 	6. Minimum Number of Jumps
 	7. Edit Distance
+	8. Longest Increasing Subsequence
 
 ### Searching
 	1. Linear Search

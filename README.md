@@ -80,6 +80,7 @@
 	2. Binomial Coefficient
 	3. Longest Common Subsequence
 	4. Maximum size square sub-matrix with all 1's
+	5. 0-1 Knapsack
 
 ### Searching
 	1. Linear Search

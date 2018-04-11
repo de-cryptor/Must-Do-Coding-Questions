@@ -85,6 +85,7 @@
 	7. Edit Distance
 	8. Longest Increasing Subsequence
 	9. Coin Change
+	10. Maximum weighted Path in Matrix to reach Last Row
 
 ### Searching
 	1. Linear Search

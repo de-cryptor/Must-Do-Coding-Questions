@@ -84,6 +84,7 @@
 	6. Minimum Number of Jumps
 	7. Edit Distance
 	8. Longest Increasing Subsequence
+	9. Coin Change
 
 ### Searching
 	1. Linear Search

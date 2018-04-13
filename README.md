@@ -58,7 +58,7 @@
 
 ### Graph Algorithms
 	1. Breadth First Search
-	2. 
+	2. Depth First Search
 
 ### Bit Magic
 	1.First Set Bit

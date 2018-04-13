@@ -59,6 +59,7 @@
 ### Graph Algorithms
 	1. Breadth First Search
 	2. Depth First Search
+	3. Count Number of Islands
 
 ### Bit Magic
 	1.First Set Bit

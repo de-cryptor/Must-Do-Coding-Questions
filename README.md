@@ -56,6 +56,10 @@
 	12.Array Subset of another array
 	13.Smallest window in a string containing all the characters of another string
 
+### Graph Algorithms
+	1. Breadth First Search
+	2. 
+
 ### Bit Magic
 	1.First Set Bit
 	2.Righmost Different Bit in two Numbers

@@ -60,6 +60,7 @@
 	1. Breadth First Search
 	2. Depth First Search
 	3. Count Number of Islands
+	4. Dijkstra [Shortest Path]
 
 ### Bit Magic
 	1.First Set Bit

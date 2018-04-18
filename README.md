@@ -97,7 +97,8 @@
 ### Greedy Algorithms
 	1. Activity Selection
 	2. N meetings in one room
-	3. Minimum Number of Coins for Change 
+	3. Minimum Number of Coins for Change
+	4. Maximize Toys 
 
 ### Searching
 	1. Linear Search

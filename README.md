@@ -95,7 +95,8 @@
 	10. Maximum weighted Path in Matrix to reach Last Row
 
 ### Greedy Algorithms
-	1. Activity Selection 
+	1. Activity Selection
+	2. N meetings in one room 
 
 ### Searching
 	1. Linear Search

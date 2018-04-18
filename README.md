@@ -102,6 +102,7 @@
 	5. PageFaults in LRU
 	6. Largest Number Possible
 	7. Minimize the Sum of Product [Dot Product] 
+	8. Minimize Heights of Tower
 
 ### Searching
 	1. Linear Search

@@ -101,6 +101,7 @@
 	4. Maximize Toys
 	5. PageFaults in LRU
 	6. Largest Number Possible
+	7. Minimize the Sum of Product [Dot Product] 
 
 ### Searching
 	1. Linear Search

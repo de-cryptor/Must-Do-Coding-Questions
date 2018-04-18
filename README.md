@@ -94,6 +94,9 @@
 	9. Coin Change
 	10. Maximum weighted Path in Matrix to reach Last Row
 
+### Greedy Algorithms
+	1. Activity Selection 
+
 ### Searching
 	1. Linear Search
 		

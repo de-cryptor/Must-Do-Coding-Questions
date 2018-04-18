@@ -99,7 +99,8 @@
 	2. N meetings in one room
 	3. Minimum Number of Coins for Change
 	4. Maximize Toys
-	5. PageFaults in LRU 
+	5. PageFaults in LRU
+	6. Largest Number Possible
 
 ### Searching
 	1. Linear Search

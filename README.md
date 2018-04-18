@@ -98,7 +98,8 @@
 	1. Activity Selection
 	2. N meetings in one room
 	3. Minimum Number of Coins for Change
-	4. Maximize Toys 
+	4. Maximize Toys
+	5. PageFaults in LRU 
 
 ### Searching
 	1. Linear Search

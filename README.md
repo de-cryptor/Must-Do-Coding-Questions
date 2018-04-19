@@ -106,6 +106,7 @@
 	9. Minimum Operations to Reach N
 	10. Shop in Candy Store
 	11. Maximum Length Chain
+	12. Minimum Spanning Tree
 
 ### Searching
 	1. Linear Search

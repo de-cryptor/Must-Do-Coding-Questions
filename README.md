@@ -103,6 +103,7 @@
 	6. Largest Number Possible
 	7. Minimize the Sum of Product [Dot Product] 
 	8. Minimize Heights of Tower
+	9. Minimum Operations to Reach N
 
 ### Searching
 	1. Linear Search

@@ -105,6 +105,7 @@
 	8. Minimize Heights of Tower
 	9. Minimum Operations to Reach N
 	10. Shop in Candy Store
+	11. Maximum Length Chain
 
 ### Searching
 	1. Linear Search

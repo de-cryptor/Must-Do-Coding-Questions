@@ -81,6 +81,7 @@
 	2. Binary Search Recursive
 	3. Merge Sort
 	4. Quick Sort
+	5. K-th element of two sorted Arrays
 
 ### Dynamic Programming
 	1. Fibbonaci Series

@@ -111,6 +111,9 @@
 	12. Minimum Spanning Tree
 	13. Geek Collects the Ball
 
+### Stack and Queue
+	1. First Non Repeating Character in Stream
+
 ### Searching
 	1. Linear Search
 		

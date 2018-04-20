@@ -94,6 +94,7 @@
 	8. Longest Increasing Subsequence
 	9. Coin Change
 	10. Maximum weighted Path in Matrix to reach Last Row
+	11. Subset Sum Problem
 
 ### Greedy Algorithms
 	1. Activity Selection

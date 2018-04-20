@@ -95,6 +95,7 @@
 	9. Coin Change
 	10. Maximum weighted Path in Matrix to reach Last Row
 	11. Subset Sum Problem
+	12. Cutted Segments
 
 ### Greedy Algorithms
 	1. Activity Selection

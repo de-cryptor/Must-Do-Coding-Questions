@@ -108,6 +108,7 @@
 	10. Shop in Candy Store
 	11. Maximum Length Chain
 	12. Minimum Spanning Tree
+	13. Geek Collects the Ball
 
 ### Searching
 	1. Linear Search

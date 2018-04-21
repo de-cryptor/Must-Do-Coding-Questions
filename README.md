@@ -96,6 +96,7 @@
 	10. Maximum weighted Path in Matrix to reach Last Row
 	11. Subset Sum Problem
 	12. Cutted Segments
+	13. Box Stacking
 
 ### Greedy Algorithms
 	1. Activity Selection

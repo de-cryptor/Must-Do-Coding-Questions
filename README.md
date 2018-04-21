@@ -115,6 +115,7 @@
 
 ### Stack and Queue
 	1. First Non Repeating Character in Stream
+	2. Rotten Oranges
 
 ### Searching
 	1. Linear Search

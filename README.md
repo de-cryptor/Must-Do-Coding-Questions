@@ -97,6 +97,7 @@
 	11. Subset Sum Problem
 	12. Cutted Segments
 	13. Box Stacking
+	14. Count Number of Ways
 
 ### Greedy Algorithms
 	1. Activity Selection

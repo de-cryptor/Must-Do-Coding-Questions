@@ -100,6 +100,7 @@
 	12. Cutted Segments
 	13. Box Stacking
 	14. Count Number of Ways
+	15. Number of Paths
 
 ### Greedy Algorithms
 	1. Activity Selection

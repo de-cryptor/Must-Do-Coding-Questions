@@ -62,6 +62,7 @@
 	3. Count Number of Islands
 	4. Dijkstra [Shortest Path]
 	5. Find whether path exist
+	6. Shortest Path to Destination
 
 ### Bit Magic
 	1.First Set Bit

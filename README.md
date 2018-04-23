@@ -102,6 +102,7 @@
 	13. Box Stacking
 	14. Count Number of Ways
 	15. Number of Paths
+	16. Special Keyboard
 
 ### Greedy Algorithms
 	1. Activity Selection

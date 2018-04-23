@@ -64,6 +64,7 @@
 	5. Find whether path exist
 	6. Shortest Path to Destination
 	7. Flood fill Algorithm
+	8. Minimum Cost Path
 
 ### Bit Magic
 	1.First Set Bit

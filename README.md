@@ -123,6 +123,7 @@
 	1. First Non Repeating Character in Stream
 	2. Rotten Oranges
 	3. Next Larger Element
+	4. Stock Span Problem
 
 ### Searching
 	1. Linear Search

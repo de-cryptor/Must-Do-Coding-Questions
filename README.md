@@ -125,6 +125,7 @@
 	3. Next Larger Element
 	4. Stock Span Problem
 	5. Celebrity Problem
+	6. Number Following Pattern
 
 ### Searching
 	1. Linear Search

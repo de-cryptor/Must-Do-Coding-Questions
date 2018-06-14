@@ -126,6 +126,7 @@
 	4. Stock Span Problem
 	5. Celebrity Problem
 	6. Number Following Pattern
+	7. Print Bracket Number in Expression
 
 ### Searching
 	1. Linear Search

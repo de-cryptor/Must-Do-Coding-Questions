@@ -124,6 +124,7 @@
 	2. Rotten Oranges
 	3. Next Larger Element
 	4. Stock Span Problem
+	5. Celebrity Problem
 
 ### Searching
 	1. Linear Search

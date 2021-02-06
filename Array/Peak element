@@ -12,15 +12,11 @@ Explanation: In the given array,
 3 is the peak element as it is 
 greater than its neighbour.
 
-
-
 Answer
 #include<bits/stdc++.h>
 using namespace std;
 
-
  // } Driver Code Ends
-
 
 int peakElement(int arr[], int n)
 {
@@ -69,8 +65,7 @@ int main() {
 		else
 		f=0;
 		
-		cout<<f<<endl;
-		
+		cout<<f<<endl;	
 	}
 
 	return 0;
